@@ -1,1 +1,1 @@
-# DataStructure Applications
+# Data Structure Applications
